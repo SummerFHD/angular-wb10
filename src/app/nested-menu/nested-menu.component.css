@@ -1,0 +1,21 @@
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  .menu-button {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #3f51b5;
+    padding: 8px 16px;
+    border-radius: 4px;
+  }
+  
+  .menu-button:hover {
+    background-color: #303f9f;
+  }
+  
